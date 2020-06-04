@@ -12,7 +12,7 @@ author: Desmond Lindsey
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+Abput Me: "About me"  
   Resources:
     - Lambda School: "https://lambdaschool.com/"
     - Linkedin: "www.linkedin.com/in/Desmond-C-Lindsey-Jyntess"
